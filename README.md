@@ -1,5 +1,5 @@
 # Tarea01AspectJ
 ## Integrantes:
 - Angie Argudo Duarte
-- Adraian Guilindro Garcés
+- Adriana Guilindro Garcés
 - Manuel Loor Macías
